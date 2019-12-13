@@ -21,9 +21,10 @@ const Home = (props) => {
         <div className="container">
           <h1>DijiFabric  Inc.</h1>
           <p>
-          We are a digital
-strategy and design
-consultancy with new generation products.
+         
+Firmaların dijital dönüşümlerinde uzun soluklu destek için tasarlanmış sağlam ürünler üreten Estonya-İstanbul merkezli bir yazılım geliştirme şirketiyiz. 
+Güvenilirlik ve ölçeklenebilirlik - bunlar DijiFabric ürünlerinin ve danışmanlığının belirleyici özellikleridir. 
+Küçük işletmelerden büyük işletmelere, ister kendi başımıza çalışalım ister ekibinizin bir uzantısı olarak, hedefimiz aynı - yeni dünya fikirlerinizi şaşırtıcı inovatif dijital deneyimlere dönüştürün.
           </p>
         </div>
       </div>
